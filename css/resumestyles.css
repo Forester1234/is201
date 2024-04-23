@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+    font-size: large;
+}
+
+a:hover{
+    color: aqua;
+}
+
+li {
+    background-color: aquamarine;
+}
+
+.center_text{
+    text-align: center;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.date {
+    text-decoration: underline;
+}
